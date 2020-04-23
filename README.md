@@ -1,2 +1,1 @@
-# Akkamma
-FirstProject
+# Maven
